@@ -1,0 +1,99 @@
+PLAIN
+END
+ENDREP
+id: 1-4.0.r8/17
+type: dir
+pred: 1-4.0.r7/175079
+count: 4
+text: 8 0 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /branches/Lulu
+copyroot: 0 /
+
+PLAIN
+K 4
+Lulu
+V 15
+dir 1-4.0.r8/17
+K 9
+firstTest
+V 19
+dir 1-2.0.r2/105369
+K 18
+документы
+V 16
+dir 1-3.0.r3/666
+END
+ENDREP
+id: 3-1.0.r8/290
+type: dir
+pred: 3-1.0.r7/175366
+count: 7
+text: 8 158 119 0 07d12d2a5275fd746b89f6a102e1aac9
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 16
+dir 3-1.0.r8/290
+K 4
+tags
+V 15
+dir 0-1.0.r1/66
+K 5
+trunk
+V 16
+dir 2-1.0.r1/129
+END
+ENDREP
+id: 0.0.r8/545
+type: dir
+pred: 0.0.r7/175628
+count: 8
+text: 8 431 101 0 72555d08f931013b5034bc4de69e3d08
+cpath: /
+copyroot: 0 /
+
+3-4.0.r5/10444971 delete-file false false /branches/Lulu/Assembly-CSharp-firstpass-vs.csproj
+
+5-4.0.r5/10445216 delete-file false false /branches/Lulu/Assembly-CSharp-firstpass.csproj
+
+6-4.0.r4/85930416 delete-file false false /branches/Lulu/Assembly-CSharp-firstpass.pidb
+
+7-4.0.r7/143552 delete-file false false /branches/Lulu/Assembly-CSharp-vs.csproj
+
+8-4.0.r7/143778 delete-file false false /branches/Lulu/Assembly-CSharp.csproj
+
+9-4.0.r7/144007 delete-file false false /branches/Lulu/Assembly-CSharp.pidb
+
+a-4.0.r5/10446214 delete-file false false /branches/Lulu/Assembly-UnityScript-firstpass-vs.unityproj
+
+b-4.0.r4/85931620 delete-file false false /branches/Lulu/Assembly-UnityScript-firstpass.pidb
+
+c-4.0.r5/10446466 delete-file false false /branches/Lulu/Assembly-UnityScript-firstpass.unityproj
+
+d-4.0.r5/10446715 delete-file false false /branches/Lulu/Assembly-UnityScript-vs.unityproj
+
+e-4.0.r4/85932355 delete-file false false /branches/Lulu/Assembly-UnityScript.pidb
+
+f-4.0.r5/10446958 delete-file false false /branches/Lulu/Assembly-UnityScript.unityproj
+
+g-4.0.r7/151685 delete-dir false false /branches/Lulu/Assets
+
+e3-4.0.r7/173119 delete-dir false false /branches/Lulu/Library
+
+13c-4.0.r7/173279 delete-file false false /branches/Lulu/Lulu-csharp.sln
+
+13d-4.0.r7/173505 delete-file false false /branches/Lulu/Lulu.sln
+
+13e-4.0.r7/173724 delete-file false false /branches/Lulu/Lulu.userprefs
+
+13f-4.0.r4/86282168 delete-dir false false /branches/Lulu/ProjectSettings
+
+11-5.0.r5/10484115 delete-file false false /branches/Lulu/lulu.exe
+
+12-5.0.r5/10494371 delete-dir false false /branches/Lulu/lulu_Data
+
+
+545 674

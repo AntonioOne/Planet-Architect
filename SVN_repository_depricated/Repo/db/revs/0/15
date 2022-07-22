@@ -1,0 +1,222 @@
+PLAIN
+K 16
+ArcballCamera.cs
+V 21
+file 3-14.0.r14/32468
+K 12
+Field.prefab
+V 20
+file g-9.0.r14/32676
+K 15
+FieldControl.cs
+V 20
+file i-9.0.r9/293751
+K 12
+FieldFill.cs
+V 20
+file j-9.0.r14/32957
+K 9
+Materials
+V 19
+dir k-9.0.r9/295438
+K 11
+MenuShow.cs
+V 21
+file 5-14.0.r14/33397
+K 7
+Rule.cs
+V 20
+file s-9.0.r14/33600
+K 6
+Scenes
+V 19
+dir t-9.0.r14/34167
+K 15
+Standard Assets
+V 19
+dir w-9.0.r9/406766
+K 24
+Standard Assets (Mobile)
+V 20
+dir c5-9.0.r9/425381
+K 9
+Status.cs
+V 21
+file e2-9.0.r14/34331
+K 24
+Texture - копия.jpg
+V 21
+file e3-9.0.r9/425747
+K 12
+Texture1.png
+V 21
+file e4-9.0.r9/426025
+K 12
+Texture2.png
+V 21
+file e5-9.0.r9/426284
+K 12
+Texture3.png
+V 21
+file e6-9.0.r9/426543
+K 12
+Texture4.png
+V 21
+file e7-9.0.r9/426804
+K 11
+Tile.prefab
+V 21
+file e8-9.0.r9/427063
+END
+ENDREP
+id: f-9.0.r15/782
+type: dir
+pred: f-9.0.r14/35413
+count: 6
+text: 15 0 769 0 ba6339f55c7fb874f8c9d2ce566351bf
+cpath: /branches/Lulu/Assets
+copyroot: 0 /
+
+PLAIN
+K 35
+Assembly-CSharp-firstpass-vs.csproj
+V 20
+file 2-9.0.r9/290669
+K 32
+Assembly-CSharp-firstpass.csproj
+V 20
+file 4-9.0.r9/290889
+K 30
+Assembly-CSharp-firstpass.pidb
+V 20
+file 5-9.0.r14/30852
+K 25
+Assembly-CSharp-vs.csproj
+V 20
+file 6-9.0.r14/31145
+K 22
+Assembly-CSharp.csproj
+V 20
+file 7-9.0.r14/31376
+K 20
+Assembly-CSharp.pidb
+V 20
+file 8-9.0.r14/31602
+K 43
+Assembly-UnityScript-firstpass-vs.unityproj
+V 20
+file 9-9.0.r9/292054
+K 35
+Assembly-UnityScript-firstpass.pidb
+V 20
+file a-9.0.r14/31886
+K 40
+Assembly-UnityScript-firstpass.unityproj
+V 20
+file b-9.0.r9/292561
+K 33
+Assembly-UnityScript-vs.unityproj
+V 20
+file c-9.0.r9/292785
+K 25
+Assembly-UnityScript.pidb
+V 20
+file d-9.0.r14/32184
+K 30
+Assembly-UnityScript.unityproj
+V 20
+file e-9.0.r9/293273
+K 6
+Assets
+V 17
+dir f-9.0.r15/782
+K 7
+Library
+V 20
+dir e9-9.0.r14/53247
+K 15
+Lulu-csharp.sln
+V 22
+file 13r-9.0.r14/53409
+K 8
+Lulu.sln
+V 22
+file 13s-9.0.r14/53634
+K 14
+Lulu.userprefs
+V 22
+file 13t-9.0.r14/53852
+K 15
+ProjectSettings
+V 21
+dir 13u-9.0.r14/54986
+K 8
+lulu.exe
+V 22
+file 147-9.0.r9/643231
+K 9
+lulu_Data
+V 21
+dir 148-9.0.r9/653425
+END
+ENDREP
+id: 1-4.0.r15/2046
+type: dir
+pred: 1-4.0.r14/56271
+count: 11
+text: 15 935 1098 0 70f4a47568da68ec6a76c6b1efeaa4ad
+cpath: /branches/Lulu
+copyroot: 0 /
+
+PLAIN
+K 4
+Lulu
+V 18
+dir 1-4.0.r15/2046
+K 9
+firstTest
+V 19
+dir 1-2.0.r2/105369
+K 18
+документы
+V 16
+dir 1-3.0.r3/666
+END
+ENDREP
+id: 3-1.0.r15/2332
+type: dir
+pred: 3-1.0.r14/56560
+count: 14
+text: 15 2197 122 0 2e1ec0699ad017e38ac10d4a95c119b9
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 3-1.0.r15/2332
+K 4
+tags
+V 15
+dir 0-1.0.r1/66
+K 5
+trunk
+V 16
+dir 2-1.0.r1/129
+END
+ENDREP
+id: 0.0.r15/2594
+type: dir
+pred: 0.0.r14/56824
+count: 15
+text: 15 2478 103 0 f6706528b1a52b7487e2c102a98d5c21
+cpath: /
+copyroot: 0 /
+
+q-9.0.r14/33179 delete-file false false /branches/Lulu/Assets/Menu.cs
+
+r-9.0.r9/295785 delete-file false false /branches/Lulu/Assets/Mouse.cs
+
+
+2594 2728
